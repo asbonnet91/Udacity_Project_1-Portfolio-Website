@@ -1,0 +1,100 @@
+
+
+
+h1 {
+color: #FFF;
+font-family: 'Raleway', sans-serif;
+}
+h2 {
+  color: #FFF;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+nav {
+  display: block;
+}
+
+
+body {
+  display: block;
+}
+
+.col-sm-4 {
+max-width: 300px;
+min-width: 300px;
+margin: 1% auto;
+}
+#image_3 {
+max-width: 300px;
+min-width: 300px;
+margin: 1% auto;
+}
+
+.project_image {
+  max-width: 300px;
+  min-width: 300px;
+  margin: 1% auto;
+}
+.header-title {
+text-align:right;
+}
+
+.nav-text {
+  text-align: left;
+
+}
+
+.container-fluid {
+  border-bottom-style: solid;
+  border-bottom-width: thick;
+  border-bottom-color: #7d97ad;
+}
+
+.navbar {
+  margin-bottom: 0px;
+  border-radius: 0px;
+  color: #000;
+  font-size: 1.2em;
+  border: 0px;
+  width: auto;
+  height: 300px;
+  display: inline-block;
+  border-bottom:6px;
+  border-color: #7d97ad;
+  padding-bottom:10px;
+}
+
+.navbar-default .navbar-nav .active a,
+.navbar-default .navbar-nav .active a:focus,
+.navbar-default .navbar-nav .active a:hover {
+  color: #000;
+}
+
+.navbar-left {
+  width: auto;
+  height: auto;
+}
+
+.logo {
+  width: 280px;
+  height: 200px;
+  left: auto;
+  float: left;
+}
+
+.text-left {
+  color: #7d978d;
+}
+
+
+.container {
+  max-width: 100%;
+  height: auto;
+  margin: 1% auto;
+}
+
+.footertxt {
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
+}
